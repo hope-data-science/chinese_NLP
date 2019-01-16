@@ -2,6 +2,7 @@
 # 中文自然语言处理
 
 本项目希望能够利用R语言完成基本的自然语言处理功能，主要工具为jiebaR和chinese.misc。
+知乎对应内容：https://zhuanlan.zhihu.com/p/55011071
 
 ## 参考文献
 1. [jiebaR的Github](https://github.com/qinwf/jiebaR)
