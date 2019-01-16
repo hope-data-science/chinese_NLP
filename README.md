@@ -11,3 +11,5 @@
 5. [GloVe](http://link.zhihu.com/?target=http%3A//text2vec.org/glove.html)
 6. [doc2Vec](http://link.zhihu.com/?target=https%3A//www.rdocumentation.org/packages/textTinyR/versions/1.1.2/topics/Doc2Vec)
 7. [fastText](https://cran.r-project.org/web/packages/fastrtext/index.html)
+8. [海量词库](https://github.com/fighting41love/funNLP)
+9. [大连理工大学情感词库](http://ir.dlut.edu.cn/EmotionOntologyDownload)
